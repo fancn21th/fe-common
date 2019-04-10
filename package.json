@@ -27,6 +27,6 @@
   "main": "./lib/fe-common.js",
   "name": "@fancn21th/fe-common",
   "repository": "fancn21th/fe-common+",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "keywords": []
 }
