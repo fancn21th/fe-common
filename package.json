@@ -26,9 +26,7 @@
   "license": "MIT",
   "main": "./lib/fe-common.js",
   "name": "@fancn21th/fe-common",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:fancn21th/fe-common.git"
-  },
-  "version": "0.3.2"
+  "repository": "fancn21th/fe-common+",
+  "version": "0.3.2",
+  "keywords": []
 }
