@@ -8,6 +8,7 @@ const TextField = ({
   labelSpan,
   okBlur,
   okFocus,
+  okEnter,
   okChange,
   wrapperSpan,
   showRequiredStar,
@@ -41,6 +42,9 @@ const TextField = ({
         }}
         onFocus={e => {
           okFocus && okFocus(e);
+        }}
+        onPressEnter={e => {
+          okEnter && okEnter(e);
         }}
       />
     </FormItem>
