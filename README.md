@@ -5,3 +5,9 @@
 ## fe-common
 
 > a legacy code repo
+
+## how to publish
+
+- update version number in `package.json`
+
+- run `npm publish`
